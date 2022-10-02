@@ -7,3 +7,5 @@ Hello!
 [对 MoleculeNet 的介绍](/DeepChem Jupyter Notebooks/对 MoleculeNet 的介绍.ipynb)
 
 [分子指纹](/DeepChem Jupyter Notebooks/分子指纹.ipynb)
+
+[使用 TensorFlow 和 PyTorch 创建模型](/DeepChem Jupyter Notebooks/使用 TensorFlow 和 PyTorch 创建模型.ipynb)
