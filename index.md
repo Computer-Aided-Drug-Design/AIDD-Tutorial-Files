@@ -11,3 +11,5 @@ Hello!
 [使用 TensorFlow 和 PyTorch 创建模型](/DeepChem Jupyter Notebooks/使用 TensorFlow 和 PyTorch 创建模型.ipynb)
 
 [图卷积的介绍](/DeepChem Jupyter Notebooks/图卷积的介绍.ipyn)
+
+[深入分子特征化](/DeepChem Jupyter Notebooks/深入分子特征化.ipyn)
