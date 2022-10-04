@@ -15,3 +15,5 @@ Hello!
 [深入分子特征化](/DeepChem Jupyter Notebooks/深入分子特征化.ipyn)
 
 [使用拆分器](/DeepChem Jupyter Notebooks/使用拆分器.ipyn)
+
+[高级模型训练](/DeepChem Jupyter Notebooks/高级模型训练.ipyn)
