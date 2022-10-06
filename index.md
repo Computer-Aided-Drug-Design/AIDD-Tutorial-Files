@@ -17,3 +17,7 @@ Hello!
 [使用拆分器](/DeepChem Jupyter Notebooks/使用拆分器.ipyn)
 
 [高级模型训练](/DeepChem Jupyter Notebooks/高级模型训练.ipyn)
+
+[从实验数据创建一个高精确度的模型](/DeepChem Jupyter Notebooks/从实验数据创建一个高精确度的模型.ipyn)
+
+[把多任务机器学习模型应用在工作中](/DeepChem Jupyter Notebooks/把多任务机器学习模型应用在工作中.ipyn)
