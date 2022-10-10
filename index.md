@@ -21,3 +21,5 @@ Hello!
 [从实验数据创建一个高精确度的模型](/DeepChem Jupyter Notebooks/从实验数据创建一个高精确度的模型.ipyn)
 
 [把多任务机器学习模型应用在工作中](/DeepChem Jupyter Notebooks/把多任务机器学习模型应用在工作中.ipyn)
+
+[建立蛋白质配体相互作用模型](/DeepChem Jupyter Notebooks/建立蛋白质配体相互作用模型.ipyn)
