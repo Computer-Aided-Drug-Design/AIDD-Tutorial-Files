@@ -23,3 +23,5 @@ Hello!
 [把多任务机器学习模型应用在工作中](/DeepChem Jupyter Notebooks/把多任务机器学习模型应用在工作中.ipyn)
 
 [建立蛋白质配体相互作用模型](/DeepChem Jupyter Notebooks/建立蛋白质配体相互作用模型.ipyn)
+
+[使用原子卷积网络建立蛋白质配体相互作用模型](/DeepChem Jupyter Notebooks/使用原子卷积网络建立蛋白质配体相互作用模型.ipyn)
