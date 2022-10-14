@@ -27,3 +27,5 @@ Hello!
 [使用原子卷积网络建立蛋白质配体相互作用模型](/DeepChem Jupyter Notebooks/使用原子卷积网络建立蛋白质配体相互作用模型.ipyn)
 
 [有条件的生成对抗网络](/DeepChem Jupyter Notebooks/有条件的生成对抗网络.ipyn)
+
+[在MNIST数据集上训练一个生成对抗网络](/DeepChem Jupyter Notebooks/在MNIST数据集上训练一个生成对抗网络.ipyn)
