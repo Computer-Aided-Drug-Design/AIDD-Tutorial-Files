@@ -32,3 +32,4 @@ Hello!
 
 [LitMatter DeepChem](/DeepChem Jupyter Notebooks/litmatter/LitDeepChem.ipynb)
 
+[使用 hyperopt 高级模型训练](/DeepChem Jupyter Notebooks/使用 hyperopt 高级模型训练.ipynb)
