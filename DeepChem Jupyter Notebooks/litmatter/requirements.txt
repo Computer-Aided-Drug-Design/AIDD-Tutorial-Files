@@ -1,0 +1,12 @@
+torch
+torch-cluster
+torch-geometric
+torch-scatter
+torch-sparse
+torch-spline-conv
+torchmetrics
+torchvision
+pytorch-lightning
+scipy
+numpy
+pandas
