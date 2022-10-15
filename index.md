@@ -33,3 +33,8 @@ Hello!
 [LitMatter DeepChem](/DeepChem Jupyter Notebooks/litmatter/LitDeepChem.ipynb)
 
 [使用 hyperopt 高级模型训练](/DeepChem Jupyter Notebooks/使用 hyperopt 高级模型训练.ipynb)
+
+[高斯过程简介](/DeepChem Jupyter Notebooks/高斯过程简介.ipynb)
+
+[与PytorchLightning结合](/DeepChem Jupyter Notebooks/与PytorchLightning结合.ipynb)
+
