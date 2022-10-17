@@ -38,3 +38,8 @@ Hello!
 
 [与PytorchLightning结合](/DeepChem Jupyter Notebooks/与PytorchLightning结合.ipynb)
 
+[分子无监督嵌入学习](/DeepChem Jupyter Notebooks/分子无监督嵌入学习.ipynb)
+
+[合成可行性评价](/DeepChem Jupyter Notebooks/合成可行性评价.ipynb)
+
+[原子对分子的贡献](/DeepChem Jupyter Notebooks/原子对分子的贡献.ipynb)
