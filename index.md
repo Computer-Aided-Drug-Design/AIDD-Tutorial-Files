@@ -45,3 +45,5 @@ Hello!
 [原子对分子的贡献](/DeepChem Jupyter Notebooks/原子对分子的贡献.ipynb)
 
 [使用 Trident Chemwidgets 进行交互式模型评估](/DeepChem Jupyter Notebooks/使用 Trident Chemwidgets 进行交互式模型评估.ipynb)
+
+[使用 ChemBERTa 变换器进行迁移学习](/DeepChem Jupyter Notebooks/使用 ChemBERTa 变换器进行迁移学习.ipynb)
